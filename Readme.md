@@ -21,7 +21,7 @@ Navigate between pages using React Router.
 
 ## PROGRAM
 App.jsx:
-```
+```jsx
 import React from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from './components/Home'
@@ -46,7 +46,7 @@ export default App
 
 ```
 App.css:
-```
+```css
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f7fa;
@@ -92,7 +92,7 @@ input {
 
 ```
 BMICalculator.jsx
-```
+```jsx
 import React, { useState } from 'react'
 
 function BMICalculator() {
@@ -143,7 +143,7 @@ function BMICalculator() {
 export default BMICalculator
 ```
 Home.jsx
-```
+```jsx
 import React from 'react'
 import { Link } from 'react-router-dom'
 
