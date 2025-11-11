@@ -163,6 +163,9 @@ export default Home
 ```
 ## OUTPUT
 
+![690c9d93-235e-495d-b965-70df7a60306a](https://github.com/user-attachments/assets/c763fd6e-50cb-46a7-aeb3-ef3e3845ecee)
+
+
 
 
 ## RESULT
